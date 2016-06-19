@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\SbehindBAR\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.2
+[debug] Platform:     win32
+[debug] Node Version: v6.1.0
+[debug] Time:         Sat Jun 18 2016 15:04:40 GMT-0700 (Pacific Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\SbehindBAR\codefellows\sandbox\hack-tacoma\GeoTacWebClient
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
